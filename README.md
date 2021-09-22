@@ -1,4 +1,4 @@
-# Stegnography
+# UCS001 Introduction To Cyber Security Assignment -1
 NAME : SAKSHAM AGGARWAL
 
 ROLL NO. : 101808032
